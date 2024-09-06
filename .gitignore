@@ -1,0 +1,10 @@
+# Ignore Allure report and results directories
+allure-report/
+allure-results/
+test-results/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore IDE-specific files
+.idea/
